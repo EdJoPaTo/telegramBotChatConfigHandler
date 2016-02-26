@@ -1,0 +1,17 @@
+{
+  "name": "telegramBotChatConfigHandler",
+  "version": "1.0.0",
+  "description": "Helper to handle a JSON config per user on the filesystem",
+  "author": {
+    "email": "edjopato@gmail.com",
+    "name": "Edgar To"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdJoPaTo/telegramBotChatConfigHandler.git"
+  }
+}
