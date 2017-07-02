@@ -1,17 +1,20 @@
 {
-  "name": "telegramBotChatConfigHandler",
-  "version": "1.1.0",
+  "name": "telegrambotchatconfighandler",
+  "version": "1.1.1",
   "description": "Helper to handle a JSON config per user on the filesystem",
-  "author": {
-    "email": "edjopato@gmail.com",
-    "name": "Edgar To"
-  },
+  "author": "edjopato@gmail.com",
   "main": "index.js",
-  "dependencies": {
-    "fs": "^0.0.2"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/EdJoPaTo/telegramBotChatConfigHandler.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/EdJoPaTo/telegramBotChatConfigHandler/issues"
+  },
+  "homepage": "https://github.com/EdJoPaTo/telegramBotChatConfigHandler#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
